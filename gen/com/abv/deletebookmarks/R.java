@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package com.abv.bookmarkcleaner;
+package com.abv.deletebookmarks;
 
 public final class R {
     public static final class attr {

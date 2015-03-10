@@ -1,4 +1,4 @@
-package com.abv.bookmarkcleaner;
+package com.abv.deletebookmarks;
 
 import android.net.Uri;
 import android.os.Bundle;
